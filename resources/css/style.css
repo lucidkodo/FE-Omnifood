@@ -157,7 +157,7 @@ a:visited {
 
 a:hover,
 a:active {
-	color: #009ea7;
+	color: #fff;
 	border-bottom: 1px solid transparent;
 	cursor: pointer;
 	/* a tags that has no href attribute, cursor will not become pointer */
