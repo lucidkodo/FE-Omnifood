@@ -1,3 +1,3 @@
-# FE-Omnifood
-My first project focused on HTML and CSS 
-I may or may not have spent 1.5 months on this. Front end hasn't been easy to me. 
+My first HTML and CSS project! This is so exciting :D (for me of course ;))
+
+https://lucidkodo-fe-omnifood.herokuapp.com
